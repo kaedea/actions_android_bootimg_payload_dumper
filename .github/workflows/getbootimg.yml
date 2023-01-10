@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip
+  ROM_URL: https://kmccpfrlnernu5fttv05lmg7m41buvvuqu4d9hmfd8534ugpbjnvujic.qc.dolfincdnx.cn:10443/xdispatchb73c580b2419f17d/bigota.d.miui.com/V14.0.4.0.TLTCNXM/miui_MAYFLY_V14.0.4.0.TLTCNXM_53f81d8553_13.0.zip
   TZ: Asia/Shanghai
 
 jobs:
